@@ -2,7 +2,7 @@ public class HolaMundo {
 
 	public static void main(String args[]) {
 
-        var numero = 1 ;
+        var numero = 2 ;
         System.out.println(numero);
     }
 }
