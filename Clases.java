@@ -1,8 +1,9 @@
-public class HolaMundo {
+public class EntradaDatos {
 
 	public static void main(String args[]) {
 
-        var numero = 2 ;
+        Integer numero = 243;
         System.out.println(numero);
+
     }
 }
