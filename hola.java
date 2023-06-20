@@ -4,5 +4,6 @@ public class HolaMundo {
 
         var numero = 2 ;
         System.out.println(numero);
+        
     }
 }
